@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+    margin-left: 39px;
+    margin-right: 39px;
+    width: 125px;
+    height: 35px;
+    
+    box-shadow: 2px 4px 2px 1px;
+    border: none;
+     
+
+}
+body{
+    background-color: purple;
+    text-align: center;
+}
+h1{
+    font-weight: bolder;
+    font-size: 150px;
+}
+#number{
+    font-size: 30px;
+}
